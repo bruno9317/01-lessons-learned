@@ -31,11 +31,21 @@ img{
     border: 50px;
 }
 .lado_direito{
-    line-height: 35px;
+    width: 40%;
+    float: right;
+    display:inline-block;
+    
 }
-.lado_direito, .lado_esquerdo{
+
+.lado_esquerdo{
+    width: 60%;
+    float: left;
+    display:inline-block;
+}
+
+/* .lado_direito, .lado_esquerdo{
     display:inline-block;
     text-align: center;
     margin: 0px 70px;
     width: 40%;
-}
+} */
