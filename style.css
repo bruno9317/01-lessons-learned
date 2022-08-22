@@ -30,15 +30,12 @@ img{
     padding: 50px;
     border: 50px;
 }
-.lado_esquerdo{
-    width: 40%;
-    display:inline-block;
-}
 .lado_direito{
-    width: 40%;
-    display:inline-block;
+    line-height: 35px;
 }
 .lado_direito, .lado_esquerdo{
+    display:inline-block;
     text-align: center;
     margin: 0px 70px;
+    width: 40%;
 }
