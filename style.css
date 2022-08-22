@@ -14,4 +14,15 @@ body{
 }
 img{
     margin-top: 100px;
+    margin-left: 640px;
+}
+#meu_nome{
+    text-align: center;
+}
+.listas{
+    display: inline-block;
+    margin-left: 330px;
+    background-color: blueviolet;
+    padding: 50px;
+    border: 50px;
 }
