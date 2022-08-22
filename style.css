@@ -1,5 +1,8 @@
 body{
     background-color: rgb(253, 251, 251);
+    font-family: Prompt;
+    font-size: 4mm;
+    line-height: 5mm
 }
 #cabecalho{
     background-color: green;
